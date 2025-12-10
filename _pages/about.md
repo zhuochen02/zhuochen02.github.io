@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a first year Ph.D. student at Data Intelligence Group (DIG), School of Computer Science and Engineering (SCSE), University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Wen Li](https://scholar.google.com/citations?hl=en&user=yjG4Eg4AAAAJ) and [Prof. Lixin Duan](https://scholar.google.com/citations?hl=en&user=inRIcS0AAAAJ). Prior to that, I received my Bachelor’s degree in the SCSE at UESTC. My research interests focus on deep generative models for visual content creation.
+Hi, I am a second year Ph.D. student at Data Intelligence Group (DIG), School of Computer Science and Engineering (SCSE), University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Wen Li](https://wenli-vision.github.io/) and [Prof. Lixin Duan](https://scholar.google.com/citations?hl=en&user=inRIcS0AAAAJ). Prior to that, I received my Bachelor’s degree in the SCSE at UESTC. My research interests focus on deep generative models for visual content creation.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Joined DIG as a first-year PhD student.
