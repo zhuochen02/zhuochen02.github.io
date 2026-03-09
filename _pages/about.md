@@ -30,7 +30,7 @@ Hi, I am a second year Ph.D. student at Data Intelligence Group (DIG), School of
 *:equal contribution; †: corresponding author
 
 <!-- SynPS -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/synps_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/synps_teaser.png' alt="SynPS teaser image" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy**
