@@ -25,3 +25,26 @@ Hi, I am a second year Ph.D. student at Data Intelligence Group (DIG), School of
 # 📖 Educations
 - *2024.09 - Present*, Ph.D. at Data Intelligence Group, SCSE, UESTC
 - *2020.09 - 2024.06*, B.Sc. in SCSE, UESTC
+
+# 📝 Publications
+*:equal contribution; †: corresponding author
+
+<!-- SynPS -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/synps.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy**
+
+**Zhuo Chen** <sup>*</sup>,
+[Fanyue Wei](https://wfanyue.github.io/)<sup>*</sup>,
+[Runze Xu](),
+[Jingjing Li](https://lijin118.github.io/),
+[Lixin Duan](https://scholar.google.com/citations?user=inRIcS0AAAAJ),
+[Angela Yao](https://www.comp.nus.edu.sg/~ayao/),
+[Wen Li](https://wenli-vision.github.io/)<sup>†</sup>
+
+[**[Paper]**](https://arxiv.org/pdf/2512.14423)&nbsp;
+[**[Project]**](https://synps26.github.io/)&nbsp;
+</div>
+</div>
+<!-- SynPS -->
