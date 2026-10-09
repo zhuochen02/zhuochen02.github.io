@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "TGuide"
+    url: "/tguide/"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
