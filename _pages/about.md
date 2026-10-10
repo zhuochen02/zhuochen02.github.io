@@ -23,8 +23,6 @@ Hi, I am a third year Ph.D. student at Data Intelligence Group (DIG), School of 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/tguide/assets/insight.png' alt="TGuide: historical trajectories guide autoregressive video diffusion" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class="paper-venue"><strong>Preprint</strong></div>
-
 **TGuide: Faster Autoregressive Video Diffusion via Historical Trajectory Guidance**
 
 <p class="paper-authors" markdown="1">
@@ -36,6 +34,8 @@ Bin Zou,
 [Wen Li](https://wenli-vision.github.io/)<sup>†</sup>
 </p>
 
+<div class="paper-venue"><strong>Preprint</strong></div>
+
 [Project](/tguide/)
 </div>
 </div>
@@ -44,8 +44,6 @@ Bin Zou,
 <!-- SynPS -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/synps_teaser.png' alt="SynPS teaser image" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<div class="paper-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026</div>
 
 **The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy**
 
@@ -58,6 +56,8 @@ Runze Xu,
 [Angela Yao](https://www.comp.nus.edu.sg/~ayao/),
 [Wen Li](https://wenli-vision.github.io/)<sup>†</sup>
 </p>
+
+<div class="paper-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026</div>
 
 [Paper](https://arxiv.org/pdf/2512.14423)
 [Project](https://synps26.github.io/)
