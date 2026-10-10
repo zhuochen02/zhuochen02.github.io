@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a second year Ph.D. student at Data Intelligence Group (DIG), School of Computer Science and Engineering (SCSE), University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Wen Li](https://wenli-vision.github.io/) and [Prof. Lixin Duan](https://scholar.google.com/citations?hl=en&user=inRIcS0AAAAJ). Prior to that, I received my Bachelor’s degree in the SCSE at UESTC. My research interests focus on deep generative models for visual content creation.
+Hi, I am a third year Ph.D. student at Data Intelligence Group (DIG), School of Computer Science and Engineering (SCSE), University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Wen Li](https://wenli-vision.github.io/) and [Prof. Lixin Duan](https://scholar.google.com/citations?hl=en&user=inRIcS0AAAAJ). Prior to that, I received my Bachelor’s degree in the SCSE at UESTC. My research interests focus on deep generative models for visual content creation.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Joined DIG as a first-year PhD student.
@@ -28,6 +28,24 @@ Hi, I am a second year Ph.D. student at Data Intelligence Group (DIG), School of
 
 # 📝 Publications
 *:equal contribution; †: corresponding author
+
+<!-- TGuide -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/tguide/assets/insight.png' alt="TGuide: historical trajectories guide autoregressive video diffusion" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TGuide: Faster Autoregressive Video Diffusion via Historical Trajectory Guidance**
+
+**Zhuo Chen**,
+Bin Zou,
+[Fanyue Wei](https://wfanyue.github.io/),
+[Lixin Duan](https://faculty.uestc.edu.cn/duanlixin/en/index.htm),
+[Angela Yao](https://www.comp.nus.edu.sg/~ayao/),
+[Wen Li](https://wenli-vision.github.io/)<sup>†</sup>
+
+[**[Project]**](/tguide/)&nbsp;
+</div>
+</div>
+<!-- TGuide -->
 
 <!-- SynPS -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/synps_teaser.png' alt="SynPS teaser image" width="100%"></div></div>
