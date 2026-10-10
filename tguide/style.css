@@ -59,3 +59,5 @@
 .arxiv-button{background:#b31b1b;color:#fff;border:1px solid #cb3939;box-shadow:0 4px 22px #b31b1b26}
 [data-arxiv-link][aria-disabled="true"]{cursor:default}
 @media(max-width:700px){.hero{height:auto;min-height:850px;max-height:none}.hero-content{padding-top:115px;padding-bottom:90px}.authors{font-size:14px;gap:5px 16px}.affiliations{flex-direction:column;gap:3px;font-size:11px}.author-block{max-width:500px}}
+
+.authors a{transition:color .18s ease;text-decoration:underline;text-decoration-color:#ffffff35;text-underline-offset:4px}.authors a:hover{color:#a5d6fe;text-decoration-color:currentColor}.authors a:focus-visible{outline:2px solid #a5d6fe;outline-offset:4px;border-radius:2px}
