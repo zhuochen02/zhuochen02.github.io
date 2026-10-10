@@ -27,12 +27,14 @@ Hi, I am a third year Ph.D. student at Data Intelligence Group (DIG), School of 
 
 **TGuide: Faster Autoregressive Video Diffusion via Historical Trajectory Guidance**
 
+<p class="paper-authors" markdown="1">
 **Zhuo Chen**,
 Bin Zou,
 [Fanyue Wei](https://wfanyue.github.io/),
 [Lixin Duan](https://faculty.uestc.edu.cn/duanlixin/en/index.htm),
 [Angela Yao](https://www.comp.nus.edu.sg/~ayao/),
 [Wen Li](https://wenli-vision.github.io/)<sup>†</sup>
+</p>
 
 [Project](/tguide/)
 </div>
@@ -47,13 +49,15 @@ Bin Zou,
 
 **The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy**
 
+<p class="paper-authors" markdown="1">
 **Zhuo Chen** <sup>*</sup>,
 [Fanyue Wei](https://wfanyue.github.io/)<sup>*</sup>,
 Runze Xu,
 [Jingjing Li](https://lijin118.github.io/),
-[Lixin Duan](https://scholar.google.com/citations?user=inRIcS0AAAAJ),
+[Lixin Duan](https://faculty.uestc.edu.cn/duanlixin/en/index.htm),
 [Angela Yao](https://www.comp.nus.edu.sg/~ayao/),
 [Wen Li](https://wenli-vision.github.io/)<sup>†</sup>
+</p>
 
 [Paper](https://arxiv.org/pdf/2512.14423)
 [Project](https://synps26.github.io/)
