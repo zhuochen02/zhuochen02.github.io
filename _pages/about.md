@@ -30,8 +30,10 @@ Hi, I am a third year Ph.D. student at Data Intelligence Group (DIG), School of 
 *:equal contribution; †: corresponding author
 
 <!-- TGuide -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/tguide/assets/insight.png' alt="TGuide: historical trajectories guide autoregressive video diffusion" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/tguide/assets/insight.png' alt="TGuide: historical trajectories guide autoregressive video diffusion" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<div class="paper-venue" style="color: #666; font-size: 0.9em; margin-bottom: 0.45em;">Preprint</div>
 
 **TGuide: Faster Autoregressive Video Diffusion via Historical Trajectory Guidance**
 
@@ -48,8 +50,10 @@ Bin Zou,
 <!-- TGuide -->
 
 <!-- SynPS -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/synps_teaser.png' alt="SynPS teaser image" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/synps_teaser.png' alt="SynPS teaser image" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<div class="paper-venue" style="color: #666; font-size: 0.9em; margin-bottom: 0.45em;">CVPR 2026</div>
 
 **The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy**
 
