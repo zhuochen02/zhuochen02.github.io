@@ -4,3 +4,6 @@
 
 /* Publication typography follows the reference homepage. */
 .paper-box-text>p:first-of-type{font-size:16px;line-height:1.45}.paper-box-text .paper-authors,.paper-box-text .paper-venue{font-size:14px;line-height:1.65}
+
+/* Warm yellow hover treatment from the reference template. */
+a:hover,a:focus{color:#f09228;text-decoration:none}.profile-links a:hover,.profile-links a:focus-visible,.paper-box-text>p:last-child a:hover,.paper-box-text>p:last-child a:focus-visible{color:#f09228;border-color:#f09228;background:#fff7ee}.paper-box-text .paper-authors a:hover,.paper-box-text .paper-authors a:focus-visible{color:#f09228;text-decoration:none}
