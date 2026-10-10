@@ -9,7 +9,7 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%230a0e12'/%3E%3Cpath d='M7 9h18M16 9v17' stroke='%2374b9ee' stroke-width='4' fill='none'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="style.css?v=focused-hero-v1">
 <link rel="stylesheet" href="assets/katex/katex.min.css">
-<script src="app.js?v=authors-arxiv-v1" defer></script>
+<script src="app.js?v=unnumbered-demos-v1" defer></script>
 </head>
 <body>
 <a class="skip" href="#demos">Skip to video comparisons</a>
@@ -32,8 +32,8 @@
 <figcaption><strong>Match the denoising stage. Retrieve across chunks.</strong> Historical features at the target timestep complement the current chunk’s earlier-step features, guiding more accurate prediction even when only four denoising steps remain.</figcaption>
 </figure></section>
 <section class="section demos" id="demos"><div class="section-heading"><div><p class="kicker">SEE IT IN MOTION</p><h2>Less computation.<br><span class="soft">More of the detail that matters.</span></h2></div><p class="section-description">Explore 20 side-by-side comparisons across two autoregressive generators.</p></div>
-<div class="demo-toolbar"><div class="segmented" role="group" aria-label="Filter comparisons by generator"><button class="active" data-filter="all" aria-pressed="true">All <span>20</span></button><button data-filter="sf" aria-pressed="false">Self Forcing <span>13</span></button><button data-filter="cf" aria-pressed="false">Causal Forcing <span>7</span></button></div><span class="small-note">Six methods. Same scene.</span></div>
-<div class="cinema"><div class="cinema-bar"><div><span class="number" id="clip-number">Case 08</span></div><span class="model-chip" id="clip-model">Self Forcing</span></div><div class="video-stage"><video id="comparison" controls playsinline loop preload="metadata" poster="assets/posters/08.jpg?v=fullres" src="assets/videos-web/08.mp4?v=web-v1" aria-label="Six-method comparison: Case 08"></video></div><div class="cinema-bottom"><span><i></i> TGuide (Ours) appears in the top-left panel.</span><div><button id="prev" aria-label="Previous scene">‹</button><button id="next" aria-label="Next scene">›</button></div></div></div>
+<div class="demo-toolbar"><div class="segmented" role="group" aria-label="Filter comparisons by generator"><button class="active" data-filter="all" aria-pressed="true">All <span>20</span></button><button data-filter="sf" aria-pressed="false">Self Forcing <span>13</span></button><button data-filter="cf" aria-pressed="false">Causal Forcing <span>7</span></button></div></div>
+<div class="cinema"><div class="cinema-bar"><span class="model-chip" id="clip-model">Self Forcing</span></div><div class="video-stage"><video id="comparison" controls playsinline loop preload="metadata" poster="assets/posters/08.jpg?v=fullres" src="assets/videos-web/08.mp4?v=web-v1" aria-label="Six-method comparison, Self Forcing"></video></div><div class="cinema-bottom"><span><i></i> TGuide (Ours) appears in the top-left panel.</span><div><button id="prev" aria-label="Previous scene">‹</button><button id="next" aria-label="Next scene">›</button></div></div></div>
 <div class="scene-grid" id="scene-grid" aria-label="Choose a comparison scene"></div>
 <p class="source-note">Comparison clips, including their prompts and method labels. Playback shows generated content; the speedup labels refer to generation latency.</p>
 </section>
