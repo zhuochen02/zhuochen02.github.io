@@ -23,7 +23,7 @@ Hi, I am a third year Ph.D. student at Data Intelligence Group (DIG), School of 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/tguide/assets/insight.png' alt="TGuide: historical trajectories guide autoregressive video diffusion" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class="paper-venue" >Preprint</div>
+<div class="paper-venue"><strong>Preprint</strong></div>
 
 **TGuide: Faster Autoregressive Video Diffusion via Historical Trajectory Guidance**
 
@@ -43,7 +43,7 @@ Bin Zou,
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/synps_teaser.png' alt="SynPS teaser image" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class="paper-venue" >CVPR 2026</div>
+<div class="paper-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026</div>
 
 **The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy**
 
