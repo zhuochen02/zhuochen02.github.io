@@ -46,3 +46,16 @@
 
 /* Keep full equations on one line without widening the page. */
 .step-math .katex-display{overflow-x:auto;overflow-y:hidden;padding:4px 0}
+
+/* Authors and paper entry. */
+.hero-actions{margin-bottom:26px}
+.author-block{max-width:900px;margin:0 auto}
+.authors{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 23px;margin:0 0 12px;color:#e0e8ed;font-size:16px;line-height:1.6}
+.authors span{white-space:nowrap}
+.author-block sup{font-size:.68em;margin-left:2px;vertical-align:super;line-height:0;color:#a7c7db}
+.affiliations{display:flex;flex-wrap:wrap;justify-content:center;gap:4px 20px;color:#a8b7c2;font-size:12px;line-height:1.7}
+.affiliations span{white-space:normal}
+.corresponding-author{margin:7px 0 0;color:#8f9fab;font-size:11px}
+.arxiv-button{background:#b31b1b;color:#fff;border:1px solid #cb3939;box-shadow:0 4px 22px #b31b1b26}
+[data-arxiv-link][aria-disabled="true"]{cursor:default}
+@media(max-width:700px){.hero{height:auto;min-height:850px;max-height:none}.hero-content{padding-top:115px;padding-bottom:90px}.authors{font-size:14px;gap:5px 16px}.affiliations{flex-direction:column;gap:3px;font-size:11px}.author-block{max-width:500px}}
