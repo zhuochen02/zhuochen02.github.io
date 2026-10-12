@@ -87,3 +87,16 @@
 
 /* Unified body and table typography in the results section. */
 #results .section-description,#results .benchmark-description{font-size:16px;line-height:1.8;color:#a5b5c0}#results table,#results th,#results td{font-size:14px}#results th,#results td{padding:18px 14px}#results .source-note{font-size:12px;line-height:1.7}@media(max-width:700px){#results .section-description,#results .benchmark-description{font-size:15px;line-height:1.75}#results table,#results th,#results td{font-size:12px}#results th,#results td{padding:14px 11px}#results .source-note{font-size:11px}}
+
+/* Shared typography scale across the project page. */
+:root{--text-section:38px;--text-subsection:24px;--text-body:16px;--text-ui:14px;--text-note:12px}
+.section-heading h2,.intro h2{font-size:var(--text-section);line-height:1.2;font-weight:550}
+#method h3,#results h3{font-size:var(--text-subsection);line-height:1.35;font-weight:550;letter-spacing:-.5px}
+main .section-description,main .hero-summary,#results .benchmark-description,#method .method-context>p,#method .reference-pair p,#method .atc-step p,#method .training p:not(.kicker){font-size:var(--text-body);line-height:1.8}
+.authors{font-size:var(--text-body)}
+.nav nav,.button,.segmented button,.affiliations,.gate-details summary,#results .result-feature>p:not(.kicker),.latency-label,.quality-note{font-size:var(--text-ui)}
+#results table,#results th,#results td{font-size:var(--text-ui)}
+.section figcaption,#results .source-note,.source-note,.stats small,.corresponding-author,.reference-name,.model-chip,.motion-button,.quality-note span{font-size:var(--text-note);line-height:1.7}
+.stats p,footer>a:last-child{font-size:var(--text-ui)}
+footer .brand{font-size:22px}
+@media(max-width:700px){:root{--text-section:30px;--text-subsection:21px;--text-body:15px;--text-ui:13px;--text-note:11px}main .section-description,main .hero-summary,#results .benchmark-description,#method .method-context>p,#method .reference-pair p,#method .atc-step p,#method .training p:not(.kicker){line-height:1.75}#results table,#results th,#results td{font-size:12px}footer .brand{font-size:19px}}
