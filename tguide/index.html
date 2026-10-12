@@ -7,7 +7,7 @@
 <link rel="canonical" href="https://zhuochen02.github.io/tguide/">
 <meta name="theme-color" content="#0a0e12">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%230a0e12'/%3E%3Cpath d='M7 9h18M16 9v17' stroke='%2374b9ee' stroke-width='4' fill='none'/%3E%3C/svg%3E">
-<link rel="stylesheet" href="style.css?v=section-order-v1">
+<link rel="stylesheet" href="style.css?v=no-demo-filter-v1">
 <link rel="stylesheet" href="assets/katex/katex.min.css">
 <script src="app.js?v=unnumbered-demos-v1" defer></script>
 </head>
@@ -26,7 +26,6 @@
 </section>
 <section class="stats" id="highlights" aria-label="Research highlights"><div><strong>1.89<span>×</span></strong><p>Denoising speedup</p><small>Self Forcing · 333 frames</small></div><div><strong>+0.16</strong><p>VBench total score</p><small>vs. the original 4-step model</small></div><div><strong>81 <span>→</span> 333</strong><p>Training → evaluation frames</p><small>Frozen base generator</small></div></section>
 <section class="section demos" id="demos"><div class="section-heading"><h2>Video Comparisons</h2><p class="section-description">Compare TGuide with five alternatives on Self Forcing and Causal Forcing. TGuide is shown in the top-left panel of each video.</p></div>
-<div class="demo-toolbar"><div class="segmented" role="group" aria-label="Filter comparisons by generator"><button class="active" data-filter="all" aria-pressed="true">All <span>20</span></button><button data-filter="sf" aria-pressed="false">Self Forcing <span>13</span></button><button data-filter="cf" aria-pressed="false">Causal Forcing <span>7</span></button></div></div>
 <div class="cinema"><div class="cinema-bar"><span class="model-chip" id="clip-model">Self Forcing</span></div><div class="video-stage"><video id="comparison" controls playsinline loop preload="metadata" poster="assets/posters/08.jpg?v=fullres" src="assets/videos-web/08.mp4?v=web-v1" aria-label="Six-method comparison, Self Forcing"></video></div><div class="cinema-bottom"><div><button id="prev" aria-label="Previous scene">‹</button><button id="next" aria-label="Next scene">›</button></div></div></div>
 <div class="scene-grid" id="scene-grid" aria-label="Choose a comparison scene"></div>
 
