@@ -73,3 +73,6 @@
 
 /* Align section introductions with the full content width. */
 .intro{display:block}.section-heading .section-description,.training p:not(.kicker){max-width:none;width:100%}
+
+/* GitHub code availability beside the paper links. */
+.code-button{background:#24292f;color:#fff;border:1px solid #57606a;cursor:default;white-space:nowrap}.hero-actions,.resource-actions{flex-wrap:wrap}.resource-actions{display:flex;align-items:center;gap:12px}
