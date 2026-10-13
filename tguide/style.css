@@ -22,7 +22,7 @@
 .insight-figure{grid-column:1/-1;margin:34px 0 0;border:1px solid #ffffff1a;border-radius:10px;overflow:hidden;background:#141f27}
 .insight-figure>a{display:block;background:#fff;padding:26px}
 .insight-figure img{display:block;width:100%;height:auto}
-.insight-figure figcaption{padding:20px 25px;color:#9badb8;font-size:14px;line-height:1.75;max-width:1040px}
+.insight-figure figcaption{padding:20px 25px;color:#9badb8;font-size:14px;line-height:1.75;max-width:none}
 .insight-figure figcaption strong{color:#dce5e9;font-weight:550}
 @media(max-width:700px){.insight-figure{margin-top:28px}.insight-figure>a{padding:10px}.insight-figure figcaption{padding:16px;font-size:13px}.insight-figure .figure-label{font-size:9px;letter-spacing:.7px}}
 
