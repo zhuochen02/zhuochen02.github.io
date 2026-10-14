@@ -14,6 +14,8 @@ redirect_from:
 Hi, I am a third year Ph.D. student at Data Intelligence Group (DIG), School of Computer Science and Engineering (SCSE), University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Wen Li](https://wenli-vision.github.io/) and [Prof. Lixin Duan](https://scholar.google.com/citations?hl=en&user=inRIcS0AAAAJ). Prior to that, I received my Bachelor’s degree in the SCSE at UESTC. My research interests focus on deep generative models for visual content creation.
 
 ## News
+- **[02/2026]** Two papers accepted to CVPR 2026.
+- **[04/2025]** One paper accepted to IJCAI 2025.
 - **[09/2024]** Joined DIG as a first-year Ph.D. student.
 
 ## Publications
