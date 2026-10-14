@@ -36,6 +36,7 @@ Bin Zou,
 
 <div class="paper-venue"><strong>Preprint</strong></div>
 
+[arXiv](http://arxiv.org/abs/2610.14657)
 [Project](/tguide/)
 </div>
 </div>
