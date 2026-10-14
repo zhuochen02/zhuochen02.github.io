@@ -45,7 +45,7 @@ Bin Zou,
 <!-- TGuide -->
 
 <!-- SynPS -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/synps_teaser.png' alt="SynPS teaser image" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/papers/synps_teaser-home.webp' loading='lazy' decoding='async' alt="SynPS teaser image" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy**
