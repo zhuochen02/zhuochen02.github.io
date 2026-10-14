@@ -102,3 +102,6 @@ footer .brand{font-size:22px}
 @media(max-width:700px){:root{--text-section:30px;--text-subsection:21px;--text-body:15px;--text-ui:13px;--text-note:11px}main .section-description,main .hero-summary,#results .benchmark-description,#method .method-context>p,#method .reference-pair p,#method .atc-step p,#method .training p:not(.kicker){line-height:1.75}#results table,#results th,#results td{font-size:12px}footer .brand{font-size:19px}}
 
 .math-with-punctuation{display:inline-block;white-space:nowrap}
+
+/* Match the hero description to the section content width. */
+.hero-content{width:100%;max-width:1232px;padding-left:26px;padding-right:26px}.hero-summary{width:100%;max-width:none}@media(max-width:700px){.hero-content{padding-left:21px;padding-right:21px}}
